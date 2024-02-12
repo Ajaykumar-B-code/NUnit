@@ -381,6 +381,15 @@
             "related": ".xml"
           }
         }
+      },
+      "drivingAgeChecker/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/drivingAgeChecker.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/drivingAgeChecker.dll": {}
+        }
       }
     }
   },
@@ -974,6 +983,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "drivingAgeChecker/1.0.0": {
+      "type": "project",
+      "path": "../drivingAgeChecker/drivingAgeChecker.csproj",
+      "msbuildProject": "../drivingAgeChecker/drivingAgeChecker.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -982,7 +996,8 @@
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.6.1",
       "NUnit3TestAdapter >= 4.2.1",
-      "coverlet.collector >= 6.0.0"
+      "coverlet.collector >= 6.0.0",
+      "drivingAgeChecker >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1011,7 +1026,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\91767\\Desktop\\workspace\\Nunit\\drivingAgeChecker\\drivingAgeChecker\\drivingAgeChecker.csproj": {
+              "projectPath": "C:\\Users\\91767\\Desktop\\workspace\\Nunit\\drivingAgeChecker\\drivingAgeChecker\\drivingAgeChecker.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

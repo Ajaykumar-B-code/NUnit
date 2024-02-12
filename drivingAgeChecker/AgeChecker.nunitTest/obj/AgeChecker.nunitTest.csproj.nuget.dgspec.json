@@ -27,7 +27,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\91767\\Desktop\\workspace\\Nunit\\drivingAgeChecker\\drivingAgeChecker\\drivingAgeChecker.csproj": {
+                "projectPath": "C:\\Users\\91767\\Desktop\\workspace\\Nunit\\drivingAgeChecker\\drivingAgeChecker\\drivingAgeChecker.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -79,6 +83,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\91767\\Desktop\\workspace\\Nunit\\drivingAgeChecker\\drivingAgeChecker\\drivingAgeChecker.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\91767\\Desktop\\workspace\\Nunit\\drivingAgeChecker\\drivingAgeChecker\\drivingAgeChecker.csproj",
+        "projectName": "drivingAgeChecker",
+        "projectPath": "C:\\Users\\91767\\Desktop\\workspace\\Nunit\\drivingAgeChecker\\drivingAgeChecker\\drivingAgeChecker.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

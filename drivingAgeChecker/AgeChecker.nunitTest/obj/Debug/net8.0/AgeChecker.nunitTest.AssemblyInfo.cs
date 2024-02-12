@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgeChecker.nunitTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba70ba515ca5364d775bf4ed2481f604daa3ab39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9470c82a6228dc2b7db843f8e41287af3c223b68")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgeChecker.nunitTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgeChecker.nunitTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
